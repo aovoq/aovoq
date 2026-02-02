@@ -1,9 +1,9 @@
 ## そのうちちゃんと書く
 
 - 👋 Hi, I’m @aovoq
-- 👀 I’m interested in small application
-- 🌱 I’m currently learning frontend
-- 📫 How to reach me instagram@aovoq
+- 👀 I’m interested in web. motion. design. interaction.
+- 🌱 I’m currently learning mobile application develop
+- 📫 How to reach me instagram @aovoq and x @ao_voq
 
 <!---
 aovoq/aovoq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
